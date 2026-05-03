@@ -1,4 +1,4 @@
-﻿# 💫 About Me:
+# 💫 About Me:
 👋 **Hi, I'm Niloy Kumar Saha**
 
 **Aspiring Software Engineer | ML Engineer | Full-Stack Developer**
@@ -112,8 +112,36 @@ PyRedisX is a Redis-like in-memory data store built entirely from the ground up.
 ![](https://streak-stats.demolab.com/?user=niloyrosaha&theme=shadow_blue&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=niloyrosaha&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-!["You're an engineer, that's enough of a joke."](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### Actively Exploring
+- Advanced System Design and Scalable Backend Architectures
+- MLOps and Production-grade Machine Learning Systems
+- AI Agents and Retrieval-Augmented Generation (RAG) applications
+- Low-level systems programming and performance optimization
+- Open source contribution best practices
+
+---
+
+### ✍️ A Favourite Quote:
+<div align="center">
+
+> <span style="color:#00E6C3; font-style:italic; font-size:1.1em;">
+> "You're an engineer, that's enough of a joke."
+> </span>
+>
+> <span style="color:#00E6C3; font-size:0.95em;">- Dr. Sheldon Cooper</span>
+
+</div>
+
+
+---
+
+
+
+### 🔭 Looking For
+- Software Engineering / ML Engineering internships for Summer 2026
+- Opportunities to work on challenging full-stack and AI-driven projects
+- Collaborators interested in building impactful tools and platforms
+- Mentorship in System Design, Backend Engineering, and ML Engineering
 
 ---
 
