@@ -18,7 +18,6 @@ I’ve developed **end-to-end applications** using **Javascript & Python**, and 
 
 
 # 💻 Tech Stack
-# 💻 Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
