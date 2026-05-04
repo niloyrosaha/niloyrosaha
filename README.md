@@ -13,7 +13,7 @@ I’ve developed **end-to-end applications** using **Javascript & Python**, and 
 
 
 ## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niloy-kumar-saha-ro45) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)][niloykumarsaha450@gmail.com](mailto:niloykumarsaha450@gmail.com) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niloy-kumar-saha-ro45) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niloykumarsaha450@gmail.com) 
  Feel free to reach for any kind of interactions
 
 
