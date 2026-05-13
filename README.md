@@ -83,6 +83,16 @@ A complete food and grocery delivery ecosystem that allows users to browse resta
 
 ---
 
+**🧠 Knowledge Distillation for Wildfire Classification**
+[View Project →](https://github.com/niloyrosaha/RESEARCH-Knowledge-Distillation.git)
+
+Research implementing multimodal CNN/ViT teachers and a lightweight RGB-only student model via knowledge distillation. Achieved ~95% of teacher performance with 100× faster inference—focus on efficient, deployable vision models.
+
+
+
+
+---
+
 **⚡ PyRedisX** — *Custom Redis Server Built from Scratch*  
 [View Project →](https://github.com/niloyrosaha/pyredisx)
 
