@@ -63,7 +63,7 @@ I’ve developed **end-to-end applications** using **Javascript & Python**, and 
 ### 🚀 Featured Projects
 
 **🎓 Dream Uni** — *The Future of University Discovery*  
-[View Project →](https://github.com/niloyrosaha/your_uni)
+[View Project →](https://dream-uni-six.vercel.app/)
 
 Dream Uni is an AI-powered platform designed to revolutionize how students discover and apply to universities. It uses real-time data scraping and intelligent AI to provide personalized, context-aware guidance on admissions, programs, campus life, and more. The platform offers a beautiful, high-performance interface with smart search, advanced filtering, and continuously updated university information.
 
